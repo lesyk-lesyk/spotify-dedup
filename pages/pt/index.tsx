@@ -13,7 +13,7 @@ const IndexComponent = () => {
     'home.description':
       'O Spotify Dedup limpa suas listas de reprodução e músicas salvas da sua conta do Spotify. É fácil e rápido.',
     'home.login-button': 'Entre com o Spotify',
-    'home.review': 'Przeczytaj, co ponad {{-supportersCount}} zwolenników myśli o Spotify Dedup na platformie {{- linkOpen}}Buy Me a Coffee{{- linkClose}}.',
+    'home.review': 'Leia o que mais de {{-supportersCount}} apoiadores pensam sobre o Spotify Dedup na plataforma {{- linkOpen}}Buy Me a Coffee{{- linkClose}}.',
     'meta.title':
       'Spotify Dedup - Remova músicas duplicadas da sua biblioteca Spotify',
     'meta.description':
